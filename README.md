@@ -18,7 +18,7 @@ Additionally, working on **Dealer Features** section of the consumer-facing, wir
 
 Day to day activities include writing release notes, attending change control meetings, determining coding standards and best practices and working with release management to establish a release schedule. Attending and contributing to the Front-End Community Of Practice (COP), leading the Tech Book Club and, of course, writing code.
 
-__AngularJS, Backbone.js, Dojo.js, jQuery, Ajile__
+_AngularJS, Backbone.js, Dojo.js, jQuery, Ajile_
 
 Acquity Group	Oct 2011 to Jan 2013
 Front-End-Development Manager
