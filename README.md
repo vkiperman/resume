@@ -4,7 +4,7 @@
 ###Work Summary: 
 ####Cars.com	Feb 2013 to Present
 #####Lead Mobile Site Developer, Senior Front-End Developer
-######Front End Dev work on the following initiatives: 
+Front End Dev work on the following initiatives: 
 *	Mobile Web
 *	MyDealerTools
 *	Dealer Features
@@ -20,14 +20,23 @@ Day to day activities include writing release notes, attending change control me
 
 _AngularJS, Backbone.js, Dojo.js, jQuery, Agile_
 
-Acquity Group	Oct 2011 to Jan 2013
-Front-End-Development Manager
-Responsible for site architecture (Big Browser and Mobile) – including JavaScript Architecture and HTML/CSS Architecture – on a wide range of projects.  Clients include General Motors Global Mobile, MyFordMobile, WESCO, MSA.   Lead numerous teams to on-time deliveries – usually finishing early while testing across all required browsers.  
-Made contributions across a wide range of disciplines including JavaScript, CSS, Graphic design, Recruiting, Training, New-Hire Screening, Business Development. Playing the roll of thought leader - instituted weekly JavaScript training and trained up to 30 Front-End professionals over the course of 12 months.  
-Major technical areas: Mobile Development, JavaScript, MVC, jQuery, HTML5, CSS3, Google Maps, creating deliverables for integration into a content management system, working within such CMSs.
+####Acquity Group	Oct 2011 to Jan 2013
+#####Front-End-Development Manager
+
+Responsible for site architecture (Big Browser and Mobile) – including JavaScript Architecture and HTML/CSS Architecture – on a wide range of projects.  Clients include 
+* General Motors Global Mobile
+* MyFordMobile
+* WESCO
+* MSA.
+
+Lead numerous teams to on-time deliveries – usually finishing early while testing across a wide range of devices and browsers. Made contributions across a wide range of disciplines including JavaScript, CSS, Graphic design, Recruiting, Training, New-Hire Screening, Business Development. Playing the roll of thought leader - instituted weekly JavaScript training and trained up to 30 Front-End professionals over the course of 12 months.  
+
 I worked closely with backend developers on planning/requirements and integration. Also with designers, UX, PMs.
-Sears Holding Co.	Mar 2011 to Oct 2011
-Lead Front-End-Developer
+
+_Mobile Development, JavaScript, MVC, jQuery, HTML5, CSS3, Google Maps, creating deliverables for integration into a content management system, working within such CMSs._
+
+####Sears Holding Co.	Mar 2011 to Oct 2011
+#####Lead Front-End-Developer
 Major accomplishments include contribution to optimization of jQuery based code base in MyGofer project.  Major projects include development of Phases I & II of Prescription Center.  jQuery; AJAX; JSON. 
 I worked closely with backend developers during the planning/requirements and integration.
 Tribune Technology	May 2010 to Feb 2011
