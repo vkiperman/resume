@@ -1,10 +1,10 @@
-##Vladimir Kiperman
-####vkiperman@gmail.com | 305 213 6454
+###Vladimir Kiperman
+#####vkiperman@gmail.com | 305 213 6454
 
-##Work Summary: 
-###Cars.com	Feb 2013 to Present
-####Lead Mobile Site Developer, Senior Front-End Developer
-#####Front End Dev work on the following initiatives: 
+###Work Summary: 
+####Cars.com	Feb 2013 to Present
+#####Lead Mobile Site Developer, Senior Front-End Developer
+######Front End Dev work on the following initiatives: 
 *	Mobile Web
 *	MyDealerTools
 *	Dealer Features
@@ -18,7 +18,7 @@ Additionally, working on **Dealer Features** section of the consumer-facing, wir
 
 Day to day activities include writing release notes, attending change control meetings, determining coding standards and best practices and working with release management to establish a release schedule. Attending and contributing to the Front-End Community Of Practice (COP), leading the Tech Book Club and, of course, writing code.
 
-_AngularJS, Backbone.js, Dojo.js, jQuery, Ajile_
+_AngularJS, Backbone.js, Dojo.js, jQuery, Agile_
 
 Acquity Group	Oct 2011 to Jan 2013
 Front-End-Development Manager
