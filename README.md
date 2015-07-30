@@ -1,6 +1,7 @@
-###Vladimir Kiperman
-#####vkiperman@gmail.com | 305 213 6454
-
+<table><tr>
+  <td>###Vladimir Kiperman</td>
+  <td>#####vkiperman@gmail.com | 305 213 6454</td>
+</tr></table>
 ###Work Summary: 
 ####Cars.com	Feb 2013 to Present
 #####Lead Mobile Site Developer, Senior Front-End Developer
