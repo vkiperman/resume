@@ -9,6 +9,7 @@
 *	MyDealerTools
 *	Dealer Features
 *	Various POC Work
+
 Working directly with the Mobile Web application infrastructure to develop and extend mobile web presences for the Cars.com family of online assets; working in parallel with the wired website development team, architecture team, and the mobile product owners on initiatives to evolve the Cars.com mobile offering through product, advertising, and presence initiatives; also, working to build out the MyDealerTools site; leading the effort to standardize MyDealerTools front end code for third party implementations; working on Dealer Features, for the consumer-facing, wired site, to implement new features and tracking, also provided business logic help, extending from the MyDealerTools workflow.
 AngularJS, Backbone.js, Dojo.js, jQuery
 Acquity Group	Oct 2011 to Jan 2013
