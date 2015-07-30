@@ -1,10 +1,11 @@
-#Vladimir Kiperman 	
+##Vladimir Kiperman
+---
 ####vkiperman@gmail.com | 305 213 6454
 
-Work Summary: 
-Cars.com	Feb 2013 to Present
-Lead Mobile Site Developer, Senior Front-End Developer
-Provided senior level Front End Dev skills on a number of projects – 
+##Work Summary: 
+###Cars.com	Feb 2013 to Present
+####Lead Mobile Site Developer, Senior Front-End Developer
+#####Provided senior level Front End Dev skills on a number of projects – 
 •	Mobile Web
 •	MyDealerTools
 •	Dealer Features
