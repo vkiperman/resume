@@ -20,6 +20,7 @@ Additionally, working on **Dealer Features** section of the consumer-facing, wir
 Day to day activities include writing release notes, attending change control meetings, determining coding standards and best practices and working with release management to establish a release schedule. Attending and contributing to the Front-End Community Of Practice (COP), leading the Tech Book Club and, of course, writing code.
 
 _AngularJS, Backbone.js, Dojo.js, jQuery, Agile_
+
 ---
 ####Acquity Group	Oct 2011 to Jan 2013
 #####Front-End-Development Manager
@@ -35,6 +36,7 @@ Lead numerous teams to on-time deliveries – usually finishing early while test
 I worked closely with backend developers on planning/requirements and integration. Also with designers, UX, PMs.
 
 _Mobile Development, JavaScript, MVC, jQuery, HTML5, CSS3, Google Maps, creating deliverables for integration into a content management system, working within such CMSs._
+
 ---
 ####Sears Holding Co.	Mar 2011 to Oct 2011
 #####Lead Front-End-Developer
