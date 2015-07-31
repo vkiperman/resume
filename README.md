@@ -35,7 +35,7 @@ Lead numerous teams to on-time deliveries – usually finishing early while test
 
 I worked closely with backend developers on planning/requirements and integration. Also with designers, UX, PMs.
 
-_Mobile Development, JavaScript, MVC, jQuery, HTML5, CSS3, Google Maps, creating deliverables for integration into a content management system, working within such CMSs._
+_Mobile Development, JavaScript, MVC, jQuery, HTML5, CSS3, Google Maps, creating deliverables for integration into a content management system._
 
 ---
 ###Sears Holding Co.	Mar 2011 to Oct 2011
