@@ -40,10 +40,17 @@ _Mobile Development, JavaScript, MVC, jQuery, HTML5, CSS3, Google Maps, creating
 ---
 ###Sears Holding Co.	Mar 2011 to Oct 2011
 #####Lead Front-End-Developer
-Major accomplishments include contribution to optimization of jQuery based code base in MyGofer project.  Major projects include development of Phases I & II of Prescription Center.  jQuery; AJAX; JSON. 
-I worked closely with backend developers during the planning/requirements and integration.
-Tribune Technology	May 2010 to Feb 2011
-Senior Software Engineer
+
+Major accomplishments include contribution to optimization of jQuery based code in the **MyGofer** project.  
+
+Major projects include development of Phases I & II of **Prescription Center**.  Worked closely with backend developers during planning/requirements and integration.
+
+_jQuery; AJAX; JSON._
+
+---
+
+###Tribune Technology	May 2010 to Feb 2011
+####Senior Software Engineer
 Major accomplishments include completion of various, high profile projects: Tribune Promotions, Unsigned NY, Promotions Building Blocks and Advanced Search.  Worked with various front-end libraries including jQuery, jQueryUI, RaphaelJS (SVG), Google Maps API.  Additionally, developed JSP template and content modules while performing extensive module configuration in Trib’s proprietary site configuration tool: P2P and while working closely with backend developers.  Scrum; SVN; StarTeam; AJAX; JSON.
 Healthation	Apr 2009 to May 2010
 Senior Software Engineer
