@@ -60,6 +60,7 @@ Major accomplishments include completion of various, high profile projects:
 
 _jQuery, jQueryUI, RaphaelJS (SVG), Google Maps API. JSP, Trib’s proprietary site configuration tool: P2P, Scrum, SVN._
 
+---
 ###Healthation _Apr 2009 to May 2010_
 ####Senior Software Engineer
 
@@ -69,6 +70,7 @@ Day-to-day duties include coding the computer-human interaction application in d
 
 _Silverlight, C#._
 
+---
 ###OptionsHouse _May 2008 to Feb 2009_
 ####UI Developer
 
@@ -80,6 +82,7 @@ Designed internal Operations UI utilizing EXTjs while working closely with a bac
 
 _jQuery, EXTjs; JSON, AJAX and XML parsing_
 
+---
 ###Blue Cross-Blue Shield Association	_Feb 2008 to May 2008_
 ####Sr. User Experience Engineer (Consultant)
 
@@ -88,6 +91,7 @@ Responsible for developing the User Interface for the **BLUE Squared 3.1** messa
 BLUE Squared 3.1 is a Web-based messaging application used by Blue Cross Host and Home Associations to quickly relay claim/patient details back and forth. BLUE Squared 3.1 implemented an Outlook-style UI convention: A left pane file tree for controlling the view of the main application, and main pane where forms provided the interface for the application.
 Worked with AJAX, JSON (sending, receiving, parsing XML); Wrote Object Oriented JavaScript (successfully implementing the Mootools library), CSS, and provided browser compatibility solutions.  Worked in RAD in a Struts development framework.
 
+---
 ###Chicago Mercantile Exchange _Aug 2007 to Feb 2008_
 ####Web Programmer/Analyst
 
@@ -97,23 +101,26 @@ I provided support to the content management team who utilized an open source CM
 
 Provided UI, Graphic design and visual flow solutions for CBOTBuilding.com. Worked hands-on with JavaScript, HTML and CSS, providing browser compatibility.  Helped plan CMS templating patterns.
 
-
-###Sapient	Mar 2007 to Aug 2007
+---
+###Sapient	_Mar 2007 to Aug 2007_
 ####Sr. User Experience Engineer (Consultant)
 
 Created graphic layouts, and template design for Sapient’s BridgeTrack Analytics application: Custom CSS, Object Oriented JavaScript (successfully implementing the Mootools library), AJAX and Flash; Developed reusable, flexible, and well-documented code for a broad backend developer base.
 Successfully created an AJAX-based data centric interface for a Web-based analytics application.  Providing services as User Interface Developer and Graphic Designer.  Worked with in-house and overseas developer base.
 
+---
 ###World Fuel Services	_Nov 2006 to Mar 2007_
 ####Sr. Web Designer & Usability Engineer (Consultant)
 
 Responsibilities Include: Design and built of the corporate web site and web based trading application (RIA).  Use of advanced development techniques: JavaScript, CSS, DHTML, graphic design, Java STRUTS, some XML & AJAX (Prototype; Some YUI), while delivering code to a broad backend developer base
 
+---
 ###TracFone (www.tracfone.com)	_Sep 2001 to Nov 2006_
 ####Sr. Front-End Developer
 
 Managed designers; Designed and constructed corporate and e-Commerce Web site and internal applications (Intranet, reporting interfaces); HTML, JavaScript, CSS, Graphics Design, Flash, JSP, XML parsing, and AJAX; While teamed up with a backend developer, maintained and provided ongoing support for promotions, seasonal content specials, and custom content for partners; ongoing solutions for new initiatives.
 
+---
 ####NetJuice Consulting	_Aug 2000 to Aug 2001_
 #####Web Graphic Designer
 Web site design: HTML, Graphics (Photoshop), Flash, ASP, JavaScript, XML/XSLT.
@@ -121,15 +128,17 @@ Clients Included:
 Dynatek - www.dynatektelecom.com -- Customizable web site.
 Arby’s Intranet (www.myarbys.com) -- e-Commerce web site. 
 
+---
 ####Culterra International	Nov 1999 to Jul 2000
 #####VP Creative Services
 
 Clients Included:
-Ford Motors Division Hispanic -- Original design of Ford’s Hispanic Web.
-Zubi Advertising -- Web site design.
-www.showbiztrade.com -- Corporate Identity, Web site design.
-www.ecsjobs.com -- Corporate Identity, Web site design.
+* Ford Motors Division Hispanic -- Original design of Ford’s Hispanic Web.
+* Zubi Advertising -- Web site design.
+* www.showbiztrade.com -- Corporate Identity, Web site design.
+* www.ecsjobs.com -- Corporate Identity, Web site design.
 
+---
 ####MyCity.com	Jul 1999 to Nov 1999
 #####Senior Graphic Designer	
 Designed look & feel; mentored junior designers.
@@ -139,11 +148,16 @@ Designed look & feel; mentored junior designers.
 ###Print Media Experience:
 ###Beber/Silverstein & Partners	_Jul 1997 to Apr 1999_
 ####Graphic Designer 
-Print media and design for Helmsley Hotels, Florida Power and Light, Doral Golf Resort and Spa, AvMed, DiecTV, Festival Mall Miccosukee Indian Gaming, Casino Princessa, and other clients: Full color and B&W newspaper and magazine design; Brochure design; Preproduction design
-Signage design for Beber Silverstein, Casino Princessa.
-Logo design/Illustration for Florida Power and Light, Farm Fresh Stores, University of Miami School of Medicine, Casino Princessa.
-Web site design for various clients
 
+Print media and design for Helmsley Hotels, Florida Power and Light, Doral Golf Resort and Spa, AvMed, DiecTV, Festival Mall Miccosukee Indian Gaming, Casino Princessa, and other clients: Full color and B&W newspaper and magazine design; Brochure design; Preproduction design.
+
+Signage design for Beber Silverstein, Casino Princessa.
+
+Logo design/Illustration for Florida Power and Light, Farm Fresh Stores, University of Miami School of Medicine, Casino Princessa.
+
+Some of the earliest Web site design for various clients.
+
+---
 ###Hunter Hamersmith & Associates Advertising	_Mar 1994 to Jun 1997_
 ####Graphic Designer
 Print media and ad design and Illustration for Sandals Resorts, Air Jamaica: Full color and B&W newspaper and magazine design; Brochure design; Preproduction design
