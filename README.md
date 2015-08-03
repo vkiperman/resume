@@ -183,5 +183,7 @@ Print media and ad design and Illustration for Sandals Resorts, Air Jamaica: Ful
 ---
 
 ###Awards:
-###Aspen Poster Competition (The Art Institute) Award of Merit	_1988_
-###First Annual Victim Rights Week Poster Contest (High School), Honorable Mention.	_1986_
+###Aspen Poster Competition, International Design Conference (IDCA)
+####(The Art Institute) Award of Merit.	_1988_
+###First Annual Victim Rights Week Poster Contest
+####(High School), Honorable Mention.	_1986_
