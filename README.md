@@ -51,9 +51,18 @@ _jQuery; AJAX; JSON._
 
 ###Tribune Technology	May 2010 to Feb 2011
 ####Senior Software Engineer
-Major accomplishments include completion of various, high profile projects: Tribune Promotions, Unsigned NY, Promotions Building Blocks and Advanced Search.  Worked with various front-end libraries including jQuery, jQueryUI, RaphaelJS (SVG), Google Maps API.  Additionally, developed JSP template and content modules while performing extensive module configuration in Trib’s proprietary site configuration tool: P2P and while working closely with backend developers.  Scrum; SVN; StarTeam; AJAX; JSON.
-Healthation	Apr 2009 to May 2010
-Senior Software Engineer
+
+Major accomplishments include completion of various, high profile projects: 
+* Tribune Promotions
+* Unsigned NY
+* Promotions Building Blocks 
+* Advanced Search.  
+
+_jQuery, jQueryUI, RaphaelJS (SVG), Google Maps API. JSP, Trib’s proprietary site configuration tool: P2P, Scrum, SVN._
+
+###Healthation	Apr 2009 to May 2010
+####Senior Software Engineer
+
 Major accomplishments include the development of Accelehealth 4.0, an interactive, multi-role Web application. This healthcare administration portal is designed entirely in Microsoft Silverlight and C# and built using RESTful architecture principals. 
 Day-to-day duties include coding the computer-human interaction application in declarative XAML markup and C# code-behind; Photoshop Storyboarding; Wireframing; Creation of proprietary, Silverlight-based UserControls; Also the creation of CustomControls including functional windows and interactive behaviors and transitions within a C#, Object-Oriented environment.
 OptionsHouse	May 2008 to Feb 2009
