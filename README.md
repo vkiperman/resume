@@ -45,7 +45,7 @@ Major accomplishments include contribution to optimization of jQuery based code 
 
 Major projects include development of Phases I & II of **Prescription Center**.  Worked closely with backend developers during planning/requirements and integration.
 
-_jQuery; AJAX; JSON._
+_jQuery, AJAX._
 
 ---
 
