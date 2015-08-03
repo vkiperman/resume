@@ -162,9 +162,11 @@ Some of the earliest Web site design for various clients.
 ####Graphic Designer
 Print media and ad design and Illustration for Sandals Resorts, Air Jamaica: Full color and B&W newspaper and magazine design; Brochure design; Preproduction design
 
+---
 ###Sherry Mfg.	_Mar 1992 to Feb 1994_
 ####Graphic Designer: Illustration and design for apparel (screen print)
 
+---
 ###Stanley Michaels	_Sep 1990 to Mar 1992_
 ####Graphic Designer: Illustration and design for apparel (screen print)
 
