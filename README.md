@@ -11,9 +11,9 @@ Front End Dev work on the following initiatives:
 *	Dealer Features
 *	Various POC Work
 
-Working directly with the **Mobile Web** application infrastructure to develop and extend mobile web presences for the Cars.com family of online assets; working in parallel with the wired website development team, architecture team, and the mobile product owners on initiatives to evolve the Cars.com mobile offering through product, advertising, and presence initiatives including A/B view testing using Optimizely.com.
+Working directly with the **Mobile Web** application infrastructure to develop and extend mobile web presences for the Cars.com family of online assets; working in parallel with the wired website development team, architecture team, and the mobile product owners on initiatives to evolve the Cars.com mobile offering through product, advertising, and presence initiatives.
 
-Also, working to build out the **MyDealerTools** site (cars.com's customer portal); leading the effort to standardize MyDealerTools front end code for third party implementations.
+Working to build out the **MyDealerTools** site (cars.com's customer portal); leading the effort to standardize MyDealerTools front end code for third party implementations.
 
 Additionally, working on **Dealer Features** section of the consumer-facing, wired site, to implement new features and tracking, also provided business logic help, extending from the MyDealerTools workflow. 
 
